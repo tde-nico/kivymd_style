@@ -9,7 +9,7 @@ Python
 
 #frames and libs
 Kivy
-Kivymd
+KivyMD
 
 -->
 
